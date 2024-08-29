@@ -12,6 +12,8 @@ I'm a security engineer focused on detection engineering, threat hunting, and in
 
 I'm on [Twitter](https://x.com/julieasparks), [LinkedIn](https://www.linkedin.com/in/julie-a-sparks/), and [Medium](https://medium.com/@julieasparks).
 
+You can view my community involvement and past talks [here](https://github.com/julieagnessparks/community-contributions).
+
 <!--
 **julieagnessparks/julieagnessparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
